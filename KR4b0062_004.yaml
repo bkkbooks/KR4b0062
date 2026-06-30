@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0062/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附録釣竿篇據文苑英華卷輯詠翦綵花詩據逯欽立輯本輯釣竿篇試持玄渚釣暫罷池陽獵翠羽飾長綸藻花裝小艓鉤利斷蓴絲帆舉牽菱葉聊載前魚童還看後舟妾詠翦綵花詩淺深依樹色舒卷聽人裁假令春色度經著手中開古今歲時雜詠三詩紀八十八
+  hash: sha256:9ddc6b0afdeca643c6cb67685b746c84ed4afb4c6bba5d92dd510b7a19e483fb
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0062_CHANT_004-1a.1-h}
+metadata:
+  title: 劉庶子集三卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0062.xml
+hash: sha256:f34dc055283cd06535f75002fd4f7c211b89262bf8f321c95c4d86ca4d9ed654
